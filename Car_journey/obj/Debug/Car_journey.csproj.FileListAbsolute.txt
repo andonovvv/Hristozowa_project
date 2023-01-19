@@ -1,0 +1,10 @@
+C:\Users\losti\source\repos\Car_journey\Car_journey\bin\Debug\Car_journey.exe.config
+C:\Users\losti\source\repos\Car_journey\Car_journey\bin\Debug\Car_journey.exe
+C:\Users\losti\source\repos\Car_journey\Car_journey\bin\Debug\Car_journey.pdb
+C:\Users\losti\source\repos\Car_journey\Car_journey\obj\Debug\Car_journey.csprojAssemblyReference.cache
+C:\Users\losti\source\repos\Car_journey\Car_journey\obj\Debug\Car_journey.Form1.resources
+C:\Users\losti\source\repos\Car_journey\Car_journey\obj\Debug\Car_journey.Properties.Resources.resources
+C:\Users\losti\source\repos\Car_journey\Car_journey\obj\Debug\Car_journey.csproj.GenerateResource.cache
+C:\Users\losti\source\repos\Car_journey\Car_journey\obj\Debug\Car_journey.csproj.CoreCompileInputs.cache
+C:\Users\losti\source\repos\Car_journey\Car_journey\obj\Debug\Car_journey.exe
+C:\Users\losti\source\repos\Car_journey\Car_journey\obj\Debug\Car_journey.pdb
